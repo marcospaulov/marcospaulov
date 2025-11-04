@@ -23,9 +23,20 @@ Minhas principais tecnologias incluem:
 
 ---
 
+---
+
+### 📬 Conecte-se Comigo
+
+<div>
+  <a href="https://instagram.com/marcospaulov0" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marcospaulosv/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
+</div>
+
+---
+
 ### 📊 Estatísticas
 
-<p>
+<div>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -41,19 +52,6 @@ Minhas principais tecnologias incluem:
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulov&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
-<br>
----
-<br>
-### 📬 Conecte-se Comigo
-
----
-
-<div>
-  <!--Instagram-->
-  <a href="https://instagram.com/marcospaulov0" target="_blank"><img height="30" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" target="_blank"></a>
-  <!-- Linkedin-->
-  <a href="https://www.linkedin.com/in/marcospaulosv/" target="_blank"><img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
 </div>
 
 ---

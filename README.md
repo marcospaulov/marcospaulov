@@ -44,7 +44,7 @@ Minhas principais tecnologias incluem:
 </p>
 
 ---
-
+<br>
 ### 📬 Conecte-se Comigo
 
 ---

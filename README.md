@@ -26,21 +26,20 @@ Minhas principais tecnologias incluem:
 ### 📊 Estatísticas
 
 <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=marcospaulov&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-<img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmarcospaulov%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26locale%3Dpt-br"
-/>
-
-<img
-        align="left"
-        alt="GitHub Stats"
-        height="200"
-        src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmarcospaulov%26theme%3Dtokyonight%26layout%3Dcompact%26custom_title%3DTecnologias%26langs_count%3D9"
-/>
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcospaulov&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
 </p>
 

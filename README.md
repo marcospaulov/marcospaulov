@@ -42,7 +42,7 @@ Minhas principais tecnologias incluem:
   />
 
 </p>
-
+<br>
 ---
 <br>
 ### 📬 Conecte-se Comigo

@@ -23,8 +23,6 @@ Minhas principais tecnologias incluem:
 
 ---
 
----
-
 ### 📬 Conecte-se Comigo
 
 <div>
@@ -53,5 +51,3 @@ Minhas principais tecnologias incluem:
   />
 
 </div>
-
----

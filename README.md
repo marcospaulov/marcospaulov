@@ -10,7 +10,7 @@ Me chamo **Marcos Paulo Vimieiro**, formado em Ciência da Computação pela UNI
 
 Minhas principais tecnologias incluem:
 
-- 🛠️ **Backend:** Node, Nest, Java, Spring, Python
+- 🛠️ **Backend:** Python, Node, Nest, Java, Spring
 - 🗄️ **Banco de Dados:** PostgreSQL, MySQL, Oracle, MongoDB
 - 💡 **Outras:** Docker, AWS, React
 
